@@ -1,0 +1,69 @@
+
+
+.parent Button{
+  margin-top: 200px;
+  margin-left: 37%;
+  width: 300px;
+
+
+}
+
+
+body{
+  background-color: brown !important;
+}
+
+
+.okbutton{
+  border-radius: 20px !important;
+  width: 200px;
+  background:rgb(40,109,154) !important;
+  margin: auto;
+  margin-bottom: 22px;
+  }
+
+
+.check-icon
+{
+  color:rgb(40,109,154) !important;
+  height: 10px;
+}
+
+.modal-header
+{
+  margin: auto;
+  color: rgb(72,87,95) !important;;
+  border-bottom: none !important;
+}
+
+.modal-text
+{
+ text-align: center !important;
+ padding-top: 0px !important;
+
+}
+
+
+.modal-footer
+{
+margin: auto;
+
+}
+
+/* .modal-head-text{
+  margin: auto !important;
+  padding: 10px !important;
+  
+} */
+
+
+.modal-content{
+  border-radius: 10px !important;
+  height: 250px;
+  width: 440px !important;
+  color: rgb(72,87,95) !important;
+ padding-top: 0px !important;
+ margin-top: 50%;
+
+
+}
